@@ -1,0 +1,6 @@
+"0","x <- median(never_used)"
+"0","sim_less_4 <- data.frame(sim_vals = rbinom(10000, 1464, x))"
+"0","sim_more_4 <- data.frame(sim_vals = rbinom(10000, 1572, x))"
+"0",""
+"0","ggplot(sim_less_4, aes(x=sim_vals)) +"
+"0","  geom_histogram()"

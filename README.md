@@ -1,0 +1,33 @@
+# BLUF
+
+The bottom-line is this: the results that NIEHS reports are likely false positives. I based this conclusion on the fact that the uterine cancer rates, when considering the number of people in the study, for the groups that had used straighteners, relaxers or pressing products either less than 4 times or more than 4 times in the prior year were all within the noise based on the uterine cancer rate in the 30,329 people who never used straighteners, relaxers or pressing products in the prior year. In other words, although rates in the group that used these products 4 or fewer times in the prior year were 25.5% lower, and although the rates in the group that used these products were 50% higher when compared to the 30,329 who never used the products, these rates are all within the noise we would expect.
+
+Said another way -- when we are sampling between 1,400 and 1,600 people, and we just use the median uterine cancer rate of 1.09%, we will see numbers of cases (i.e., people with uterine cancer) as low as 7 and as high as 28 as entirely plausible. Given that NIEHS saw case numbers as low as 12 and as high as 26, it is entirely plausible that NIEHS is just analyzing noise.
+
+# Background
+
+## Re-analysis of NIEHS Hair Straightener and Uterine Cancer Data
+
+NIEHS issued a [press release](https://www.niehs.nih.gov/news/newsroom/releases/2022/october17/index.cfm) on Monday October 17, 2022, that stated that their researchers identified an increase risk of uterine cancers in women who used hair relaxers and straighteners. They used a Cox proportional hazards model to make this finding. Alexandra White of NIEHS stated, "we estimated that 1.64% of women who never used hair straighteners would go on to develop uterine cancer by the age of 70; but for frequent users, that risk goes up to 4.05%." This is based on an [NIEHS study](https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djac165/6759686?login=false) published in the Journal of the National Cancer Institute by Chang et al (2022). 
+
+To my eyes, that's a 2.4x increase -- which seems a bit high to me. 
+
+### What do we know and what is hypothesized by NIEHS:
+
+1. We know that uterine cancers are relatively rare.
+2. We know that rates of detected uterine cancers increased at a faster rate in non-hispanic Black women compared to White women from 2011-2015 [according to NIH](https://www.nih.gov/news-events/news-releases/study-shows-incidence-rates-aggressive-subtypes-uterine-cancer-rising).
+3. [NIEHS hypothesized that increased uterine cancer rates in Black women could be do to relaxer use](https://www.niehs.nih.gov/news/newsroom/releases/2022/october17/index.cfm?utm_medium=NIEHS+website).
+4. We also know that Black women have been using relaxers and hair products well before 2011. I should know -- my parents owned a hair store where the overwhelming majority of our clientelle were Black women. We sold relaxers, gels, mousse, wigs, weaves, wax, shampoos, conditioners, dyes, chalks, you name it and we probably sold it. And we started that store in the 1990s. And stores have been selling relaxers since well before the 1990s. So it doesn't make much sense to blame hair products -- the timing just doesn't fit.
+
+### What do we know about the NIEHS study?
+
+1. It only had 29 Black women who developed uterine cancer; out of a total of 2,523 that were enrolled. That works out to 1.1%
+2. The overwhelming majority of women who developed uterine cancer in the study were White women -- 326 of them in fact, out of a total of 29,060. That works out to 1.1%
+3. The women in the study had an average age of 58 years old, and most of the women who developed uterine cancer were followed up within 6.5 years.
+4. The enrollment period for the study was 2003-2009.
+
+Note that the topline number for uterine cancer rate in this study for both Black and White women was 1.1%. So at the time of the study, we're not seeing any significant difference between groups at the top-line. So now the question becomes -- do we see one when we consider hair straightening product use?
+
+Again, from a sociological perspective, the timing just doesn't fit. However, it should be noted that women can and do change up their hair styles, and one may not use relaxers often throughout the year. However, [NIEHS noted](https://www.niehs.nih.gov/news/newsroom/releases/2022/october17/index.cfm) that 60% of the women in their study that had used a relaxer or straightening product at least once in the prior year were Black. 
+
+The other thing to consider is that the number of Black women in the study is really, really small, and not representative of the overall US population. In fact, the number of White women in the study is much greater than what we have in the population: at 85.6% of the women in the study, or 29,060. Because uterine cancer is such a rare cancer, and there are only 29 Black women who had it in the study, that means that any effect size we see when doing the analysis to identify an effect due to relaxers is likely to be exaggerated and a false positive -- a form of Type M (or magnitude) error.
